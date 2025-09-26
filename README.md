@@ -32,6 +32,6 @@ Using Python and Power BI, we explored Superstore sales data, extracted critical
 
 ## 👨‍💻 Author
 
-Harikishan S.P
-GitHub: @kishan540226
-Email:hk9070689@gmail.com
+- Harikishan S.P
+- GitHub: @kishan540226
+- Email:hk9070689@gmail.com
